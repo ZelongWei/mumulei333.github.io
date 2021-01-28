@@ -27,8 +27,8 @@ module.exports = {
   locales: {
     '/': {
       lang: 'zh-CN', // 将会被设置为 <html> 的 lang 属性
-      title: "MUMU",
-      description: '人生的路途，只有不断的回顾和总结才会继续走下去'
+      title: "Zeron",
+      description: '枕边红花还新鲜，再睁眼或以拜谢'
     }
   },
   // markdown配置
